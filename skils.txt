@@ -1,0 +1,4 @@
+soft skills
+postman
+JS
+git bash
